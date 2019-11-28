@@ -1,0 +1,259 @@
+.jumbotron{
+  background-image: url(./assets/header.jpg);
+  height: 100vh;
+  background-position-x: 50%;
+  background-position-y: 50%;
+  text-align: center;
+  align-content: bottom;
+
+  }
+
+
+
+.display-4{
+    color: white ;
+    font-size: 5em;
+    font-weight: bold;
+    line-height: 0.7em;
+    text-align: center;
+    
+
+}
+
+.lead{
+    font-family: Raleway, sans-serif;
+    font-size: 25px;
+
+    font-weight: 700;
+    color: #363636; 
+    margin-top: 3%;
+
+}
+
+.logo{
+    image:url(./assets/Logo.jpg)
+    font-family: cursive;
+    font-size: 2em;
+    font-weight: bold;
+    line-height: 0.7em;
+    color: white;
+    margin-bottom: 15%;
+    margin-top: -3%;
+}
+
+
+.work{
+    padding-top: 75px;
+    padding-bottom: 50px;
+    scroll-margin-top: 100%;
+    transition:  0.2s ease,padding 0.8s linear;}
+
+.workheader{
+    
+    color: #ccc;
+    font-family: Raleway, sans-serif;;
+    line-height: 0.4em ;
+    font-size:  3em;
+    text-align: center;
+    padding: 8px  8px;
+    font-weight: bold;
+}
+
+.aboutme{
+    font-size: 3.3em;
+    font-family: 'Raleway', sans-serif;
+    line-height: 1.1em;
+    padding: 50px 0 0 0;
+    text-align: left;
+    font-weight: bold;
+    background-color: grey;
+    
+
+}
+
+.col-5{
+height:70vh;
+overflow: hidden;
+background: #C33764;  /* fallback colour. Make sure this is just one solid colour. */
+background: -webkit-linear-gradient(rgba(169, 236, 248, 0.8), rgba(195, 55, 100, 0.8)), url("./assets/51729505_1677006388998259_5876591841725382656_n.jpg");
+background: linear-gradient(rgba(169, 236, 248, 0.8), rgba(195, 55, 100, 0.8)), url("./assets/51729505_1677006388998259_5876591841725382656_n.jpg"); /* The least supported option. */
+
+}
+
+
+
+.col-7{
+ background-color: #f1eeee;
+ font-family: 'Raleway',sans-serif;
+ height:70vh;
+ 
+ 
+}
+
+.header{
+    font-size: 2.9em;
+    display: block;
+    font-weight: bold;
+    margin-left: 10%;
+    margin-top: 8%;
+
+}
+
+.paragraph{
+
+color: #969696;
+margin-left: 10%;
+font-size: 25px;
+display: block;
+
+    
+
+
+}
+
+.col-6{
+    background-color: black;
+    height: 70vh;
+}
+
+.container2{
+   background-color:#1b1717f1;
+   height:70vh;
+}
+
+.get{
+    padding-top: 60px;
+    margin-left: 32%;
+    color:rgb(142, 142, 142);
+    font-size: 2em;
+    font-weight: bold;
+
+}
+
+.net{
+    padding-top: 60px;
+    padding-left: 120px;
+    color:rgb(142, 142, 142);
+    font-size: 2em;
+    font-weight: bold;;
+    
+}
+
+
+
+.text{
+    color:#6d6d6d !important;
+    padding-top: 2px;
+    font-family: helvetica,Arial;
+    font-size: 1.2em;
+    margin-left: 30.5%;
+    line-height: 1.5em;
+    padding: 5px 10px;
+}
+
+.call{
+    color:#6d6d6d !important;
+    font-family: helvetica,Arial;
+    font-size: 1.2em;
+    line-height: 1.5em;
+    padding: 5px 10px;
+    padding-left: 120px;
+
+
+}
+
+.email{
+    padding-top: 0px;
+    margin-left: 16%;
+    color:rgb(142, 142, 142);
+    font-size: 2em;
+    font-weight: bold;
+
+
+
+}
+
+.link{
+    color: #4bb8d2; !important;
+    padding-top: 2px;
+    font-family: helvetica,Arial;
+    font-size: 1.5em;
+    margin-left: 15.2%;
+    line-height: 1.5em;
+    padding: 5px 10px;
+
+
+}
+
+.social{
+
+    color: #4bb8d2!important;
+    font-family: helvetica,Arial;
+    font-size: 1.2em;
+    line-height: 1.5em;
+    padding: 5px 10px;
+    padding-left: 120px;
+   
+}
+
+.face{
+    color: #4bb8d2!important;
+    font-family: helvetica,Arial;
+    font-size: 1.2em;
+    line-height: 1.5em;
+    padding: 5px 10px;
+    padding-left: 120px;
+
+}
+
+.copy{
+
+    background: url(../images/dark_texture.jpg) repeat;
+    width: 100%;
+    padding: 20px 0;
+    font-size: 1em;
+    font-family: helvetica , Arial;
+    color: #6d6d6d;
+    text-align: center;
+
+}
+
+.last{
+    background: url(../images/dark_texture.jpg) repeat;
+    width: 100%;
+    margin-top: -2%;
+    padding: 10px 0;
+    font-size: 0.8em;
+    font-family: helvetica , Arial;
+    color: #6d6d6d;
+    text-align: center;
+
+
+
+}
+
+.card{
+ align-content: flex-start;
+ margin-left: 20%;
+ float: right;
+ -webkit-margin-bottom-collapse: inherit;
+
+
+.row{
+
+    margin-left: -5%;
+    margin-right: 
+}
+
+.navbar-brand{
+
+    margin-top: 5% ;
+
+    
+    
+    
+}
+
+
+    
+
